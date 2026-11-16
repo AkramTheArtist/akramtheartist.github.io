@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akramtheartist.github.io/sitemap.xml
